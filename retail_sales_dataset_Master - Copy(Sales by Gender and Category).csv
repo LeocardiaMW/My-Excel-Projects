@@ -1,0 +1,11 @@
+Product Category,Gender,Sum of Sales
+Beauty,Female,16.41%
+,Male,15.06%
+Beauty Total,,31.47%
+Clothing,Female,17.82%
+,Male,16.29%
+Clothing Total,,34.12%
+Electronics,Female,16.83%
+,Male,17.58%
+Electronics Total,,34.41%
+Grand Total,,100.00%
