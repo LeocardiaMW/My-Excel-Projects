@@ -52,6 +52,8 @@ Developed charts and visual reports to:
 
 ![Image of a line chart showing the contrast between revenue and profits over five years](https://github.com/user-attachments/assets/5c93d1c9-f2ef-4684-8095-746d1e326946) 
 
+![Image of a pie-chart showing revenues from bike sales according to different age-goups](https://github.com/user-attachments/assets/89b3b9a0-a561-4696-9d39-c401a59329ab)
+
 
 
 ## Key Outcomes
