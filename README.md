@@ -48,7 +48,10 @@ Developed charts and visual reports to:
 - Present sales trends.
 - Compare product performance.
 - Support data-driven decision making.
-- Communicate insights clearly to stakeholders. 
+- Communicate insights clearly to stakeholders.
+
+![Image of a pie-chart showing revenues from bike sales according to different age-goups]<img width="372" height="225" alt="image" src="https://github.com/user-attachments/assets/89b3b9a0-a561-4696-9d39-c401a59329ab" />
+
 
 ## Key Outcomes
 - Improved proficiency in Microsoft Excel for business and data analysis.
