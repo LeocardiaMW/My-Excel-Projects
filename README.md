@@ -48,12 +48,7 @@ Developed charts and visual reports to:
 - Present sales trends.
 - Compare product performance.
 - Support data-driven decision making.
-- Communicate insights clearly to stakeholders.
-
-![Image of a line chart showing the contrast between revenue and profits over five years](https://github.com/user-attachments/assets/5c93d1c9-f2ef-4684-8095-746d1e326946) 
-
-![Image of a pie-chart showing revenues from bike sales according to different age-goups](https://github.com/user-attachments/assets/89b3b9a0-a561-4696-9d39-c401a59329ab)
-
+- Communicate insights clearly to stakeholders
 
 
 ## Key Outcomes
@@ -72,3 +67,7 @@ Developed charts and visual reports to:
 
 ## Learning Highlights
 This project strengthened core spreadsheet and analytical skills commonly used in data-focused roles. It provided practical experience in transforming raw sales data into meaningful insights through calculations, summarisation, visualisation, and reporting.
+
+![Image of a line chart showing the contrast between revenue and profits over five years](https://github.com/user-attachments/assets/5c93d1c9-f2ef-4684-8095-746d1e326946) 
+
+![Image of a pie-chart showing revenues from bike sales according to different age-goups](https://github.com/user-attachments/assets/89b3b9a0-a561-4696-9d39-c401a59329ab)
